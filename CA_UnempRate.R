@@ -1,7 +1,6 @@
 ##################################
 ########INSTALLMENT 1 CODE########
 ##################################
-data <- read.csv("C:/Users/sabap/Desktop/170 Project/PartI/ts_dat.csv")
 summary(data)
 
 #Mean of Variables
